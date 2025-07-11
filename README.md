@@ -1,6 +1,6 @@
 # A-star-pathfinding-in-Java
 
-This is a simple **A* pathfinding** visualization created for an exam project in Java. It’s a stripped-down version of the original game project, **Alone Outside**, which you can check out on Itch.io:
+This is a simple **A* pathfinding** visualization created for an exam project. It’s a stripped-down version of the original game project, **Alone Outside**, which you can check out on Itch.io:
 **🎮 https://ab0-22.itch.io/alone-outside**
 
 This demo shows how A* works in a randomly generated maze using **Processing 4** (v4.4.4).
