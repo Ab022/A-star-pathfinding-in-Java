@@ -1,4 +1,4 @@
-# A-star-pathfinding-in-Java
+# A-star-pathfinding-in-Processing
 
 This is a simple **A* pathfinding** visualization created for an exam project. It’s a stripped-down version of the original game project, **Alone Outside**, which you can check out on Itch.io:
 **🎮 https://ab0-22.itch.io/alone-outside**
